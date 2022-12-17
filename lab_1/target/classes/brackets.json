@@ -1,0 +1,10 @@
+[
+	{
+		"bracket": { "left": "[", "right": "]" }
+	},
+
+	{
+		"bracket": { "left": "(", "right": ")" }
+	}
+
+]

@@ -1,0 +1,12 @@
+Line №5 found: 
+Line №6 found: surprise!
+Line №7 found: 
+Line №8 found: :( text
+Line №9 found: 
+Line №10 found: surprise
+Line №11 found: 
+Line №12 found: some other unrelated
+Line №9 found: 
+Line №10 found: surprise
+Line №11 found: 
+Line №12 found: some other unrelated

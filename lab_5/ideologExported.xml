@@ -1,0 +1,14 @@
+<State>
+  <highlightingPatterns>
+    <LogHighlightingPattern enabled="true" pattern="^\s*i(nfo)?\s*$" action="HIGHLIGHT_LINE" fg="-12599489" bold="false" italic="false" stripe="false" uuid="5e882ebc-2179-488b-8e1a-2fe488636f36" />
+  </highlightingPatterns>
+  <hiddenSubstrings />
+  <parsingPatterns>
+    <LogParsingPattern enabled="true" name="All" pattern="^(.*?)(\s(.*?))?(\s(.*?))?(\s(.*?))?(\s(.*?))?(\s(.*?))?(\s(.*?))?$" timePattern="" linePattern="" timeId="-1" severityId="-1" categoryId="-1" fullmatch="false" uuid="db0779ce-9fd3-11ec-b909-0242ac120002" />
+  </parsingPatterns>
+  <settingsVersion>6</settingsVersion>
+  <lastAddedDefaultFormat>-1</lastAddedDefaultFormat>
+  <errorStripeModel>heatmap</errorStripeModel>
+  <readonlySizeThreshold>16</readonlySizeThreshold>
+  <highlight_links>true</highlight_links>
+</State>
